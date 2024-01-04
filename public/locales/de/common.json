@@ -1,0 +1,151 @@
+{
+  "login": {
+    "title": "Melde dich jetzt an",
+    "title_1": "oder",
+    "title_2": "erstelle einen neuen Account.",
+    "facebook": "Mit Facebook anmelden",
+    "google": "Mit Google anmelden",
+    "e-mail_label": "E-Mail",
+    "password_label": "Passwort",
+    "remain_signed_in_text": "Angemeldet bleiben",
+    "login_text": "Login",
+    "Create_new_acc_text": "Neues Konto erstellen",
+    "forgot_pass_text": "Passwort vergessen",
+    "description_1": "Durch die Nutzung von typehook.com stimmen Sie zu",
+    "description_2": " automatisch an die",
+    "terms_of_condition_text": "Nutzungsbedingungen",
+    "description_3": "und das",
+    "privacy_policy_text": "Datenschutz-Bestimmungen "
+  },
+  "signUp": {
+    "title": "Erstelle Deinen Account! In 2 Minuten bist Du startklar.",
+    "title_1": "Du hast schon einen Account?",
+    "title_2": "Login",
+    "description_1": "Durch die Nutzung von typehook.com stimmst Du automatisch",
+    "description_2": "den",
+    "terms_of_condition_text": "Nutzungsbedingungen",
+    "description_3": "und den",
+    "privacy_policy_text": "Datenschutz-Bestimmungen",
+    "description_4": "zu."
+  },
+  "forgotPassword": {
+    "title": "Trage hier die E-Mail Adresse ein mit der Du Deinen Account erstellt hast.",
+    "e-mail_label": "E-Mail",
+    "Submit-text": "Absenden",
+    "description_1": "Durch die Nutzung von typehook.com stimmst Du automatisch",
+    "description_2": "den",
+    "terms_of_condition_text": "Nutzungsbedingungen",
+    "description_3": "und den",
+    "privacy_policy_text": "Datenschutz-Bestimmungen",
+    "description_4": "zu."
+  },
+  "changePassword": {
+    "title": "Passwort ändern",
+    "current_passwort_label": "Aktuelles Passwort",
+    "new_passwort_label": "Neues Passwort",
+    "confirm_passwort_label": "Bestätige das Passwort",
+    "Submit_text": "Jetzt ändern"
+  },
+  "dashboard": {
+    "Neue_Templates_title": "Neue Templates",
+    "Neue_Templates_discription1": "Unser Ziel ist es, die neuen Technologien der KI-gestützten Marketingautomationen für Dich einfach zugänglich zu machen.",
+    "Neue_Templates_discription2": "Wöchentlich erwarten Dich hier Updates zu praxiserprobten Marketinglösungen.",
+    "Roadmap_title": "Roadmap",
+    "Roadmap_discription1": "Was kommt als nächstes?",
+    "Roadmap_discription2": "Hier wird Dir in Zukunft genau angezeigt, was wir als kommende Erweiterungen geplant haben!",
+    "Darkmode_integrierung_title": "DarkMode Integrierung",
+    "Darkmode_integrierung_discription1": "Komm auf die dunkle Seite der Macht!",
+    "Darkmode_integrierung_discription2": "Damit Du auch Nachts und undercover arbeiten kannst, haben wir unseren DarkMode integriert.",
+    "24/7_Support_title": "24/7 Support",
+    "24/7_Support_discription1": "Unser Support-Team und unser KI-Mitarbeiter",
+    "24/7_Support_discription2": "Hans",
+    "24/7_Support_discription3": "steht Dir an 7 Tagen pro Woche zur Verfügung.",
+    "Newsletter_title": "Newsletter",
+    "Newsletter_discription1": "Du willst keine Neuigkeiten von typehook. verpassen?",
+    "Newsletter_discription2": "Dann trage Dich hier zu unserem Newsletter ein und wir schicken Dir wöchentlich Updates zum Thema AI und den aktuellen Trend zu Thema KI und digitalem Marketing",
+    "Newsletter_discription3": "typehook",
+    "Newsletter_discription4": "Neuerungen",
+    "Newsletter_register_text": "Anmelden",
+    "Schnellere_Abfrage_title": " Schnellere Abfrage",
+    "Schnellere_Abfrage_discription1": "Wir arbeiten ständig an der Optimierung unserer Systeme, um Dir ein optimales Nutzererlebnis zu geben!"
+  },
+  "profileDropdown": {
+    "Passwort_ändern": "Passwort ändern",
+    "Abonnement_verwalten": "Abonnement verwalten",
+    "Credits": "Credits",
+    "Ausloggen": "Ausloggen",
+    "history": "Suchverlauf"
+  },
+  "sidebar": {
+    "Kategorien_text": "Kategorien",
+    "Sei_kreativ_mit_typehook_text": "typehook. Freestyle"
+  },
+  "dashboardDetails": {
+    "Deine_Ergebnisse_text": "Deine Ergebnisse",
+    "create_content_text": "Content erstellen",
+    "try_again": "Erneut versuchen",
+    "modalTitle": "So nutzt Du diese Logik am besten:",
+    "Input zurücksetzen": "Input zurücksetzen",
+    "Bilder erstellen": "Bilder erstellen",
+    "Anzahl Bilder": "Anzahl der Bilder"
+  },
+  "history": {
+    "title": "Deine Anfragenhistorie"
+  },
+  "clipboardCopy": {
+    "kopiert_text": "kopiert",
+    "Text_kopieren_text": "Text kopieren",
+    "Alle_herunterladen": "Alle herunterladen"
+  },
+  "credit": {
+    "Hallo": "Hallo",
+    "username": "username",
+    "hier_siehst_du_dein_Credit_Overview.": "hier siehst du dein Credit-Overview.",
+    "Weitere_Credits_sichern_und_sparen.": "Weitere Credits sichern und sparen.",
+    "Bleibe_effizient_und_nutze_den_Vorsprung_gegenüber_deiner_Konkurrenz.": "Bleibe effizient und nutze den Vorsprung gegenüber deiner Konkurrenz.",
+    "Schalte_hier_ganz_bequem_mit_einem_Klick_weitere_Credits_frei_und_spare_-20%": "Schalte hier ganz bequem mit einem Klick weitere Credits frei und spare -20%",
+    "Jetzt_Credits_sichern_und_20%_sparen": "Jetzt Credits sichern und 20% sparen",
+    "Du_hast_bereits_deiner": "Du hast bereits deiner",
+    "deiner_Credits_genutzt_und_atemraubende_Inhalte_erstellt.": "deiner Credits genutzt und atemraubende Inhalte erstellt.",
+    "Oh_nein!": "Oh nein!",
+    "du_hast_alle_deine_Credits_aufgebraucht.": "du hast alle deine Credits aufgebraucht.",
+    "Fülle_jetzt_deine_Credits_auf_oder_upgrade_deinen_Account.": "Fülle jetzt deine Credits auf oder upgrade deinen Account.",
+    "Du_hast_noch_großes_vor?_Upgrade_deinen_Account_jetzt_auf_typehook.Pro_oder_schicke_uns_eine_Anfrage_für_ein_individuelles_Enterprise-Paket.": "Du hast noch großes vor? Upgrade deinen Account jetzt auf typehook. Pro oder schicke uns eine Anfrage für ein individuelles Enterprise-Paket.",
+    "Bleibe_effizient_und_nutze_den_Vorsprung_gegenüber_deiner_Konkurrenz.Schalte_hier_ganz_bequem_mit_einem_Klick_weitere_Credits_frei_und": "Bleibe effizient und nutze den Vorsprung gegenüber deiner Konkurrenz. Schalte hier ganz bequem mit einem Klick weitere Credits frei und",
+    "spare_-20% .": "spare -20% .",
+    "Jetzt_Credits_sichern": "Jetzt Credits sichern ",
+    "Jetzt_Account_upgraden": "Jetzt Account upgraden",
+    "Pro": "Pro"
+  },
+  "error": {
+    "input": "Dieses Feld ist erforderlich",
+    "select ": "Bitte wählen Sie in der Liste eine Option aus",
+    "wrong": "Etwas ist schief gelaufen",
+    "number": "Muss eine Nummer sein",
+    "changePassword": "Ihr Passwort konnte nicht geändert werden",
+    "forgotPassword": "Etwas ist schief gelaufen bei Passwort vergessen",
+    "login": "Anscheinend haben Sie eine ungültige E-Mail oder ein ungültiges Passwort eingegeben.",
+    "register": "Registrierung fehlgeschlagen",
+    "resetPassword": "Beim Zurücksetzen des Passworts ist etwas schief gelaufen",
+    "Facebook": "Bei der Facebook-Authentifizierung ist etwas schief gelaufen",
+    "Google": "Bei der Google-Anmeldung ist etwas schief gelaufen",
+    "dashboardDetails": "Dashboard-Details konnten nicht geladen werden",
+    "dashboardSidebar": "Fehler beim Laden der Dashboard-SideBar",
+    "PaymentStatus": "Bei der Zahlungsbestätigung ist etwas schief gelaufen",
+    "PageDashboardDetails": "Seiten-Dashboard-Details konnten nicht geladen werden"
+  },
+  "success": {
+    "changePassword": "Ihr Passwort wurde erfolgreich geändert",
+    "forgotPassword": "Passwort vergessen wurde erfolgreich durchgeführt",
+    "login": "Erfolgreich angemeldet",
+    "register": "Registrierung erfolgreich",
+    "resetPassword": "Das Zurücksetzen des Passworts wurde erfolgreich durchgeführt",
+    "Facebook": "Facebook Auth wurde erfolgreich durchgeführt",
+    "Google": "Google Login wurde erfolgreich durchgeführt",
+    "dashboardDetails": "Dashboard-Details erfolgreich geladen",
+    "PaymentStatus": "Zahlungsüberprüfung wurde erfolgreich durchgeführt"
+  },
+  "images": {
+    "Deine_letzten_Ergebnisse": "Deine letzten Ergebnisse"
+  }
+}

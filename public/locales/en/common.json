@@ -1,0 +1,149 @@
+{
+  "login": {
+    "title": "Log in",
+    "title_1": "or",
+    "title_2": "setup a new account.",
+    "facebook": "Login with Facebook",
+    "google": "Login with Google",
+    "e-mail_label": "E-Mail",
+    "password_label": "Password",
+    "remain_signed_in_text": "Stay online",
+    "login_text": "Login",
+    "Create_new_acc_text": "Setup a new account",
+    "forgot_pass_text": "Password reminder",
+    "description_1": "With using typehook.com you are",
+    "description_2": "automatically accept",
+    "terms_of_condition_text": "terms of service ",
+    "description_3": "and",
+    "privacy_policy_text": "privacy rules."
+  },
+  "signUp": {
+    "title": "Setup a new in account and start working with typehook in just 2 minutes",
+    "title_1": "Do you already have an account?",
+    "title_2": "Login",
+    "description_1": "With using typehook.com you are",
+    "description_2": "automatically accept",
+    "terms_of_condition_text": "terms of service ",
+    "description_3": "and",
+    "privacy_policy_text": "privacy rules"
+  },
+  "forgotPassword": {
+    "title": "Please fill in the e-mail address that you used for the registration.",
+    "e-mail_label": "E-Mail",
+    "Submit-text": "send",
+    "description_1": "With using typehook.com you are",
+    "description_2": "automatically accept",
+    "terms_of_condition_text": "terms of service ",
+    "description_3": "and",
+    "privacy_policy_text": "privacy rules."
+  },
+  "changePassword": {
+    "title": "Change password",
+    "current_passwort_label": "Current password",
+    "new_passwort_label": "New password",
+    "confirm_passwort_label": "Confirm the new password",
+    "Submit_text": "Change"
+  },
+  "dashboard": {
+    "Neue_Templates_title": "New templates",
+    "Neue_Templates_discription1": "Our goal is to make the new technologies of AI-supported marketing automation easily accessible to you.",
+    "Neue_Templates_discription2": "Weekly updates on field-tested marketing solutions await you here.",
+    "Roadmap_title": "Roadmap",
+    "Roadmap_discription1": "What happens next?",
+    "Roadmap_discription2": "Here you will be shown exactly what we have planned as upcoming expansions!",
+    "Darkmode_integrierung_title": "DarkMode integration",
+    "Darkmode_integrierung_discription1": "Come to the dark side of the Force!",
+    "Darkmode_integrierung_discription2": "We have integrated our DarkMode so that you can also work at night and undercover.",
+    "24/7_Support_title": "24/7 Support",
+    "24/7_Support_discription1": "Our support team and our AI worker",
+    "24/7_Support_discription2": "Hans ",
+    "24/7_Support_discription3": "is available to you 7 days a week.",
+    "Newsletter_title": "Newsletter ",
+    "Newsletter_discription1": "You don't want to miss news from typehook.com?",
+    "Newsletter_discription2": "Then sign up for our newsletter here and we will send you weekly updates on AI and the current trend in AI and digital marketing",
+    "Newsletter_discription3": "typehook ",
+    "Newsletter_discription4": "News / Updates ",
+    "Newsletter_register_text": "Login",
+    "Schnellere_Abfrage_title": "Faster query",
+    "Schnellere_Abfrage_discription1": "We are constantly working on optimizing our systems to give you an optimal user experience!"
+  },
+  "profileDropdown": {
+    "Passwort_ändern": "Change Password",
+    "Abonnement_verwalten": "Manage Subscription",
+    "Kredits": "Credits",
+    "Ausloggen": "Logout",
+    "history": "history"
+  },
+  "sidebar": {
+    "Kategorien_text": "categories",
+    "Sei_kreativ_mit_typehook_text": "typehook. Freestyle"
+  },
+  "credit": {
+    "Hallo ": "Hello",
+    "username": "username",
+    "hier_siehst_du_dein_Credit_Overview.": "here you can see your Credit-Overview.",
+    "Weitere_Credits_sichern_und_sparen.": " Secure and save more credits.",
+    "Bleibe_effizient_und_nutze_den_Vorsprung_gegenüber_deiner_Konkurrenz": "Stay efficient and use the advantage over your competition",
+    "Schalte_hier_ganz_bequem_mit_einem_Klick_weitere_Credits_frei_und_spare_-20%": "Unlock more credits with just one click and save -20%",
+    "Jetzt_Credits_sichern_und_20%_sparen": "Secure credits now and save -20%",
+    "Du_hast_bereits_deiner": "You already have yours",
+    "deiner_Credits_genutzt_und_atemraubende_Inhalte_erstellt.": " of your credits and create breathtaking content.",
+    "Oh_nein!": "Oh no!",
+    "du_hast_alle_deine_Credits_aufgebraucht.": "you have used up all your credits.",
+    "Fülle_jetzt_deine_Credits_auf_oder_upgrade_deinen_Account.": "Top up your credits now or upgrade your account.",
+    "Du_hast_noch_großes_vor?_Upgrade_deinen_Account_jetzt_auf_typehook.Pro_oder_schicke_uns_eine_Anfrage_für_ein_individuelles_Enterprise-Paket.": "Do you still have big plans? Upgrade your account to typehook now. Pro or send us a request for a customized enterprise package.",
+    "Bleibe_effizient_und_nutze_den_Vorsprung_gegenüber_deiner_Konkurrenz_Schalte_hier_ganz_bequem_mit_einem_Klick_weitere_Credits_frei_und": "Stay efficient and use the advantage over your competition. Unlock more credits here with just one click and",
+    "spare_-20% .": "save -20%.",
+    "Jetzt_Credits_sichern ": "Secure credits now",
+    "Jetzt_Account_upgraden": "Upgrade account now",
+    "Pro": "Pro"
+  },
+  "dashboardDetails": {
+    "Deine_Ergebnisse_text": "your results",
+    "create_content_text": "Start creating content",
+    "try_again": "Try again",
+    "modalTitle": "Here's the best way to use this logic:",
+    "Input zurücksetzen": "Reset Inputs",
+    "Bilder erstellen": "Create images",
+    "Anzahl Bilder": "Number of images"
+  },
+  "history": {
+    "title": "Your request history"
+  },
+  "clipboardCopy": {
+    "kopiert_text": "copy",
+    "Text_kopieren_text": "Copy text",
+    "Alle_herunterladen": "Download all"
+  },
+  "error": {
+    "input": "This field is required",
+    "select ": "Please select at list one option",
+    "wrong": "Something Went Wrong",
+    "number": "Must be a number",
+    "changePassword": "Your Password has been failed to changed",
+    "forgotPassword": "Something Went Wrong in Forget Password",
+    "login": "It seems you entered an invalid email or password.",
+    "register": "Failed to Register",
+    "resetPassword": "Something Went Wrong in Reset Password",
+    "Facebook": "Something Went Wrong in Facebook Auth",
+    "Google": "Something Went Wrong in Google Login",
+    "dashboardDetails": "Failed to load Dashboard Details",
+    "dashboardSidebar": "Failed to load Dashboard SideBar",
+    "PaymentStatus": "Something Went Wrong in Payment Verify ",
+    "PageDashboardDetails": "Failed to load Page Dashboard Details"
+  },
+  "success": {
+    "changePassword": "Your Password has been successfully changed",
+    "forgotPassword": "Forget Password has been successfully done ",
+    "login": "Successfully Login",
+    "register": "Successfully Register",
+    "resetPassword": " Reset Password has been done successfully",
+    "Facebook": "Facebook Auth has been done successfully",
+    "Google": "Google Login has been done successfully",
+    "dashboardDetails": "successfully loaded Dashboard Details",
+    "PaymentStatus": "Payment Verify has been successfully done"
+  },
+  "images": {
+    "Deine_letzten_Ergebnisse": "Your Last Results"
+  }
+}

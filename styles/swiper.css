@@ -1,0 +1,29 @@
+.swiper-button-prev {
+  left: 42% !important;
+  bottom: -10px !important;
+  background-image: url("/image/svg/icon-slide-left.svg");
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: 50%;
+  bottom: 0 !important;
+  top: var(--swiper-navigation-top-offset, 95%) !important;
+}
+.swiper-button-prev::after {
+  display: none;
+}
+.swiper-button-next {
+  right: -40px;
+}
+.swiper-button-next {
+  right: 44% !important;
+  bottom: -10px !important;
+  background-image: url("/image/svg/icon-slide-right.svg");
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: 50%;
+  bottom: 0 !important;
+  top: var(--swiper-navigation-top-offset, 95%) !important;
+}
+.swiper-button-next::after {
+  display: none;
+}

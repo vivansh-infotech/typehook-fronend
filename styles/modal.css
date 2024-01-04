@@ -1,0 +1,12 @@
+.modal-backdrop {
+  @apply p-4 flex bottom-0 left-0 overflow-auto fixed right-0 top-0 z-50 bg-[#000000a6];
+}
+.modal-container {
+  @apply w-auto max-h-full m-auto dark:border-black border-gray border rounded-2xl;
+}
+.modal-body {
+  @apply p-4 dark:bg-primary relative bg-white rounded-2xl lg:w-full  m-auto lg:min-w-[350px];
+}
+.close-icon {
+  @apply absolute top-4 !right-4;
+}

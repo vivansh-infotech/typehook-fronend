@@ -1,0 +1,51 @@
+.gradient-border-mask {
+  position: relative;
+}
+
+.gradient-border-mask::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  background: linear-gradient(
+      90deg,
+      rgba(238, 194, 153, 0.1) 0%,
+      rgba(219, 161, 161, 0.1) 32.29%,
+      rgba(105, 167, 227, 0.1) 64.06%,
+      rgba(31, 34, 64, 0.1) 100%
+    )
+    fixed !important;
+  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: destination-out;
+  mask-composite: exclude;
+}
+
+.sidebar-border-gradient {
+  border: 1px solid;
+  border-image-source: linear-gradient(
+    90deg,
+    rgba(238, 194, 153, 0.1) 0%,
+    rgba(219, 161, 161, 0.1) 32.29%,
+    rgba(105, 167, 227, 0.1) 64.06%,
+    rgba(31, 34, 64, 0.1) 100%
+  );
+}
+/* @media only screen and (max-width: 1024px) {
+  .gradient-border-mask::before {
+    @apply border-[#69a7e31a] dark:border-transparent;
+  }
+} */
+
+.webkit-appearance-none {
+  -webkit-appearance: none;
+}
+.border-gradient-color {
+  border: 1px solid;
+  border-image: linear-gradient(to right, #69a7e3, #555ba5) 1;
+  /* border-radius: 20px; */
+  @apply lg:border-b-0;
+}

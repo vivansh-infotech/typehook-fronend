@@ -1,0 +1,14 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "./base.css";
+@import "./font.css";
+@import "./border.css";
+@import "./scrollbar.css";
+@import "./accordion.css";
+@import "./rangebar.css";
+@import "./swiper.css";
+@import "./loader.css";
+@import "./input.css";
+@import "./modal.css";
+@import "./dashboard-details.css";
+@import "tailwindcss/utilities";

@@ -1,0 +1,39 @@
+.css-1lhd4ja-control {
+  @apply dark:!bg-[#28292a] !bg-white !min-h-[43px] dark:!shadow-c2 shadow-main dark:!border-[#28292a] !border-[#f3f3f3];
+}
+
+.css-n1ml4g-Input,
+.css-1d3mm1i-singleValue {
+  @apply !text-[11px] dark:!text-gray !text-gray-300;
+}
+
+.css-1jqq78o-placeholder {
+  @apply !text-[11px] dark:text-gray text-gray-300;
+}
+
+.react-select-3-placeholder {
+  @apply placeholder:text-gray dark:placeholder:text-gray-300 text-[11px];
+}
+.css-1lbph45-menu {
+  @apply dark:!bg-white !bg-[#000000];
+}
+.css-zo7jie-menu {
+  @apply !text-[11px] text-gray dark:text-gray-300;
+}
+
+.multi-language .css-13wltcw-control {
+  @apply !p-0 bg-transparent border-none cursor-pointer;
+}
+.multi-language .custom-color {
+  @apply text-black;
+}
+.multi-language .css-1lhd4ja-control {
+  box-shadow: none !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+}
+
+.multi-language .css-1d3mm1i-singleValue {
+  @apply !uppercase;
+}

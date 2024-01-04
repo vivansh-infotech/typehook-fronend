@@ -1,0 +1,49 @@
+{
+  "name": "typehook",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.10",
+    "@next/bundle-analyzer": "^12.3.1",
+    "@svgr/webpack": "^6.3.1",
+    "@tanstack/react-query": "^4.20.9",
+    "axios": "^1.2.2",
+    "file-saver": "^2.0.5",
+    "i18next": "^22.4.11",
+    "jszip": "^3.10.1",
+    "jszip-utils": "^0.1.0",
+    "moment": "^2.29.4",
+    "next": "13.1.1",
+    "next-i18next": "^13.2.2",
+    "next-themes": "^0.2.1",
+    "postcss-import": "^14.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.41.3",
+    "react-hot-toast": "^2.4.0",
+    "react-i18next": "^12.2.0",
+    "react-portal": "^4.2.2",
+    "react-select": "^5.7.0",
+    "react-table": "^7.8.0",
+    "reactjs-social-login": "^2.6.1",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^9.2.0",
+    "typewriter-effect": "^2.19.0",
+    "yup": "^0.32.11",
+    "zustand": "^4.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.7",
+    "autoprefixer": "^10.4.13",
+    "eslint": "8.31.0",
+    "eslint-config-next": "13.1.1",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.2.4"
+  }
+}

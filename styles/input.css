@@ -1,0 +1,63 @@
+.switch {
+  @apply relative;
+}
+.switch > input[type="checkbox"] {
+  @apply absolute left-0 top-0 h-full w-full cursor-pointer opacity-0;
+}
+.switch > .switch-track {
+  @apply pointer-events-none relative rounded-full bg-primary h-full w-full;
+}
+
+.switch > .switch-track > .toggle-icon {
+  @apply w-4 h-4 absolute left-[5px] top-1/2 -translate-y-[46%] rounded-full opacity-100 bg-white;
+}
+.switch > input[type="checkbox"]:checked ~ .switch-track {
+  @apply bg-blue;
+}
+.switch > input[type="checkbox"]:checked ~ .switch-track > .toggle-icon {
+  @apply left-auto right-[6px] opacity-100;
+}
+.switch > .switch-track > .toggle-icon > .switch-icon {
+  @apply absolute -left-7 top-0 h-[16px] w-[13px] flex-wrap flex items-center justify-center;
+}
+.switch > .switch-track > .toggle-icon > .switch-icon:first-child,
+.switch
+  > input[type="checkbox"]:checked
+  ~ .switch-track
+  > .toggle-icon
+  > .switch-icon:nth-child(2) {
+  @apply opacity-100 left-[21px];
+}
+.switch
+  > input[type="checkbox"]:checked
+  ~ .switch-track
+  > .toggle-icon
+  > .switch-icon:nth-child(2) {
+  @apply -left-[17px];
+}
+.switch > .switch-track > .toggle-icon > .switch-icon:nth-child(2),
+.switch
+  > input[type="checkbox"]:checked
+  ~ .switch-track
+  > .toggle-icon
+  > .switch-icon:first-child {
+  @apply opacity-0;
+}
+
+.filter-c1 {
+  filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.15));
+}
+.border-c1 {
+  border: 1px solid;
+  border-radius: 5px;
+  border-image-source: linear-gradient(
+    90deg,
+    rgba(238, 194, 153, 0.1) 0%,
+    rgba(219, 161, 161, 0.1) 32.29%,
+    rgba(105, 167, 227, 0.1) 64.06%,
+    rgba(31, 34, 64, 0.1) 100%
+  );
+}
+#countries option {
+  @apply bg-blue border-none;
+}
